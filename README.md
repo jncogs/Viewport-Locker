@@ -8,7 +8,7 @@ Plug-in Object w/ Menu Commands
 
 ## Version
 
-**1.0.0** - 6/18/2026
+**1.0.1** - 6/19/2026
 
 These plug-ins are written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer.
 
@@ -171,6 +171,7 @@ The categories for the plug-ins are as follows:
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 06/18/2026 | 1.0.0 | Initial Release |
+| 06/19/2026 | 1.0.1 | Added deselect to top of call |
 
 ### Lock Viewports Menu Command
 | Date | Version | Note |
@@ -186,6 +187,7 @@ The categories for the plug-ins are as follows:
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 06/18/2026 | 1.0.0 | Initial Release |
+| 06/19/2026 | 1.0.1 | Fixed bug where deleted objects would linger until view change |
 
 ## Known Bugs
 
